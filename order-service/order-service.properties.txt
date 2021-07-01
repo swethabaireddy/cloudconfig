@@ -1,2 +1,0 @@
-app.name=order-service
-app.db.name=OrderService

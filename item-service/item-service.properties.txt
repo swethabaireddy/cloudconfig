@@ -1,2 +1,0 @@
-app.name=item-service
-app.db.name=ItemService
